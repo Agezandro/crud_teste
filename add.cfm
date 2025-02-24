@@ -69,7 +69,7 @@
                     <label class="form-label">Valor</label>
                     <input type="number" name="valor" class="form-control" step="0.01" required>
                 </div>
-
+<!--- Teste de commit --->
                 <div class="d-flex justify-content-between">
                     <a href="index.cfm" class="btn btn-secondary">
                         <i class="bi bi-arrow-left"></i> Voltar para o Inicio
